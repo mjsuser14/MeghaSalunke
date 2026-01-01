@@ -29,8 +29,10 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 ![Linux](https://img.shields.io/badge/Linux-2B2B2B?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Status
 ![GitHub Streak](https://streak-stats.demolab.com?user=mjsuser14)
+![Profile Views](https://komarev.com/ghpvc/?username=mjsuser14&style=flat-square)
+
 
 
 ---
