@@ -2,9 +2,9 @@
 
 ### 🚀 Currently Working On <br/>
 
- 🔹 Databricks (hands-on learning)
- 🔹 Exploring AI concepts & Advanced SQL
- 🔹 Building interactive Power BI projects
+ 🔹 Databricks (hands-on learning) <br/>
+ 🔹 Exploring AI concepts & Advanced SQL <br/>
+ 🔹 Building interactive Power BI projects <br/>
 
  ---
 ### About Me 
@@ -29,10 +29,9 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 ![Linux](https://img.shields.io/badge/Linux-2B2B2B?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
-### 📊 GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjsuser14&show_icons=true&theme=default)
+### 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=mjsuser14)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjsuser14&layout=compact)
+
 
 ---
 ### 📫 Connect with me <br/>
