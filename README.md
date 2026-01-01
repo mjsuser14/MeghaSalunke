@@ -30,11 +30,9 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 
 ---
 ### 📊 GitHub Status
-![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mjsuser14&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=https://github.com/mjsuser14E&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mjsuser14&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjsuser14&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=mjsuser14)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjsuser14&layout=compact)
 
 ---
 ### 📫 Connect with me <br/>
