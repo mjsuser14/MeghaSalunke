@@ -1,18 +1,11 @@
 ## Hi 👋, I'm Megha Salunke
 
-🎓 Final-year IT student | 💻 Data & Analytics Enthusiast  
-🌱 Currently learning Data Analytics, Python & AI  
-📌 Interested in real-world, data-driven projects
-
+---
+##About me 
+I finished my bachelor's of Engineering degree in Data Information Technology from Bharati Vidyapeeth's College of Engineering for Women Pune,Maharashtra in June 2025. I'm eager to apply my analytical skills to real-world challenges.🎯
 ### 🔧 Tech Stack
 Python | SQL | Excel | Power BI | Pandas | NumPy | Git | GitHub
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
-
+---
 ### 📫 Connect with me
-- LinkedIn: your-link  
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/meghasalunke?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8yWaOifjQl%2Bj9aKuqApTkw%3D%3D 
+- Email: meghasalunke2003@gmail.com
