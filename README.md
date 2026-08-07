@@ -2,9 +2,13 @@
 
 ### 🚀 Currently Working On <br/>
 
- 🔹 Databricks (hands-on learning) <br/>
- 🔹 Exploring AI concepts & Advanced SQL <br/>
- 🔹 Building interactive Power BI projects <br/>
+🎨 Designing real-world UI/UX case studies <br/>
+
+💻 Learning JavaScript & Frontend Development <br/>
+
+🤖 Exploring AI for Design & Productivity <br/>
+
+📱 Building interactive Power BI projects 
 
  ---
 ### About Me 
@@ -12,6 +16,15 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 
 ---
 ### 🔧 Technical Stack & tools I worked with <br/>
+## 🎨 Design Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/figma.png" width="55"/>
+  <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/figjam.png" width="55"/>
+  <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/framer.png" width="55"/>
+  <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/notion.png" width="55"/>
+</p>
+
 #### 💻 Core Programming and Data <br/>
 ![Python](https://img.shields.io/badge/Python-2C2D72?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
