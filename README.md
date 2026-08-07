@@ -16,15 +16,15 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 
 ---
 ### 🔧 Technical Stack & tools I worked with <br/>
-## 🎨 Design Tools
+### 🎨 Design Tools
 
 <p align="left">
   <img src="assets/Figma.jpg" width="55"/>
   <img src="assets/Notion.jpg" width="55"/>
-  <img src=" assets/Framer.jpg" width="55"/>
+  <img src="assets/Framer.jpg" width="55"/>
 </p>
 
-## 🧩 UI/UX Skills
+### 🧩 UI/UX Skills
 
 <p align="left">
 <img src="https://img.shields.io/badge/UX%20Research-4A90E2?style=for-the-badge"/>
@@ -43,9 +43,11 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 ![Pandas](https://img.shields.io/badge/Pandas-2E1A47?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0D6EFD?style=for-the-badge&logo=mysql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge&logo=code&logoColor=white)
+
 #### 🤖 AI & Analytics <br/>
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/MS_Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 #### 🧰 Tools & Platforms <br/>
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-2ECC71?style=for-the-badge&logo=anaconda&logoColor=white)
