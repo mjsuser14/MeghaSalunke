@@ -57,7 +57,7 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 
 ---
 ### 📊 GitHub Status
-![GitHub Streak](https://streak-stats.demolab.com?user=mjsuser14)
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themegha14
 ![Profile Views](https://komarev.com/ghpvc/?username=mjsuser14&style=flat-square)
 
 
