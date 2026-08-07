@@ -6,8 +6,6 @@
 
 💻 Learning JavaScript & Frontend Development <br/>
 
-🤖 Exploring AI for Design & Productivity <br/>
-
  ---
 ### About Me 
 I finished my bachelor's of Engineering degree in Data Information Technology from Bharati Vidyapeeth's College of Engineering for Women Pune,Maharashtra in June 2025. I'm eager to apply my analytical skills to real-world challenges.🎯
