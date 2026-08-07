@@ -19,10 +19,22 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 ## 🎨 Design Tools
 
 <p align="left">
+  <img src="assets/Figma.jpg" width="55"/>
   <img src="assets/Notion.jpg" width="55"/>
-  <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/figjam.png" width="55"/>
-  <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/framer.png" width="55"/>
-  <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/notion.png" width="55"/>
+  <img src=" assets/Framer.jpg" width="55"/>
+</p>
+
+## 🧩 UI/UX Skills
+
+<p align="left">
+<img src="https://img.shields.io/badge/UX%20Research-4A90E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/User%20Flows-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Information%20Architecture-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireframing-F39C12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prototyping-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Systems-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Usability%20Testing-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-2ECC71?style=for-the-badge"/>
 </p>
 
 #### 💻 Core Programming and Data <br/>
