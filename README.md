@@ -16,7 +16,7 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 
 ---
 ### 🔧 Technical Stack & tools I worked with <br/>
-### 🎨 Design Tools
+#### 🎨 Design Tools
 
 <p align="left">
   <img src="assets/Figma.jpg" width="55"/>
@@ -24,7 +24,7 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
   <img src="assets/Framer.jpg" width="55"/>
 </p>
 
-### 🧩 UI/UX Skills
+#### 🧩 UI/UX Skills
 
 <p align="left">
 <img src="https://img.shields.io/badge/UX%20Research-4A90E2?style=for-the-badge"/>
@@ -57,8 +57,14 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 
 ---
 ### 📊 GitHub Status
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themegha14
-![Profile Views](https://komarev.com/ghpvc/?username=mjsuser14&style=flat-square)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themegha14&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=themegha14&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 
 
