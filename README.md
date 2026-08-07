@@ -19,7 +19,7 @@ I finished my bachelor's of Engineering degree in Data Information Technology fr
 ## 🎨 Design Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/figma.png" width="55"/>
+  <img src="assets/Notion.jpg" width="55"/>
   <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/figjam.png" width="55"/>
   <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/framer.png" width="55"/>
   <img src="https://raw.githubusercontent.com/MeghaSalunke/github-assets/main/assets/notion.png" width="55"/>
