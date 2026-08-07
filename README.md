@@ -3,8 +3,9 @@
 ### 🚀 Currently Working On <br/>
 
 🎨 Designing real-world UI/UX case studies <br/>
-
+🤖 Exploring AI for Design & Productivity
 💻 Learning JavaScript & Frontend Development <br/>
+
 
  ---
 ### About Me 
